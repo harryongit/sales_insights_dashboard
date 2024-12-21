@@ -3,6 +3,8 @@
 ## Overview
 The **Sales Insights Dashboard** is a comprehensive Python-based project designed to analyze and extract actionable business insights from sales data. This tool incorporates key techniques such as data cleaning, exploratory data analysis (EDA), visualization, and business intelligence to support data-driven decision-making for businesses. By processing historical sales data, it enables businesses to identify trends, optimize customer segmentation, and assess product performance.
 
+![img](https://github.com/user-attachments/assets/1aefe6b5-42ad-4bd9-8eae-ddf355e398fe)
+
 ## Key Features
 - **Automated Data Cleaning and Preprocessing:** Automatically handles missing values, outliers, and ensures data integrity.
 - **Sales Trend Analysis and Forecasting:** Analyzes historical sales data to uncover trends and forecasts future performance.
