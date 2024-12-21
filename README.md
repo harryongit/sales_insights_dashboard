@@ -31,7 +31,7 @@ sales_insights/
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/sales-insights.git
+git clone https://github.com/harryongit/sales_insights_dashboard.git
 cd sales-insights
 pip install -r requirements.txt
 ```
