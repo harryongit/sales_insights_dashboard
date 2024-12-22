@@ -120,3 +120,6 @@ For major changes, please open an issue first to discuss the changes you plan to
 
 ## License
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+[![Python Version](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)  
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
